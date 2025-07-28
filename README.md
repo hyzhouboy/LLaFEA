@@ -2,7 +2,7 @@
 
 ## ICCV2025
 
-### [arXiv Paper](https://arxiv.org/abs/2506.23157)
+### [arXiv Paper](https://arxiv.org/pdf/2503.06934)
 
 [Hanyu Zhou](https://hyzhouboy.github.io/) $^{1*}$, [Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/) $^{1✉}$
 
@@ -10,7 +10,7 @@ $^1$ National University of Singapore
 
 $^✉$ Corresponding Author.
 
-![](Alert/llafea.png)
+![block](Alert/llafea.png)
 
 
 ## News
